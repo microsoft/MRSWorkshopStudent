@@ -3,3 +3,6 @@
 .RData
 .Ruserdata
 .MRSWorkshopStudent.Rproj
+**/*.Rproj
+**/*.html
+**/*.xdf
